@@ -1,2 +1,13 @@
+array/target
+array_access/target
+booleans/target
+characters/target
+floats/target
 guessing_game/target
+hello_cargo/target
+hello_world/target
+numeric_operations/target
 shadowing/target
+tuple/target
+tuple_access/target
+variables/target
